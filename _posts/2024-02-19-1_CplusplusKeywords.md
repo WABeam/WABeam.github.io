@@ -1,11 +1,7 @@
 ---
-
 layout: article
-
 title: 1.C++关键字
-
 mathjax: true
-
 ---
 
 # 1.C++关键字
