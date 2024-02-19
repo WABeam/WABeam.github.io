@@ -1,8 +1,6 @@
 ---
-layout: article
-title: 1.C++关键字
-tags: CPlusPlus
-mathjax: true
+title: C++KeyWords
+tags: TeXt
 ---
 
 # 1.C++关键字
