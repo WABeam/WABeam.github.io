@@ -1,6 +1,7 @@
 ---
 layout: article
 title: 1.C++关键字
+tags: CPlusPlus
 mathjax: true
 ---
 
